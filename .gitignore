@@ -1,0 +1,10 @@
+appsettings.json
+appsettings.Development.json
+.vs/
+.vscode/
+.vscode-test/
+.env
+Migrations/
+bin/
+obj/
+/packages/
